@@ -16,8 +16,8 @@ This project implements Q-learning to train an agent to solve the MountainCar-v0
 
 1️⃣ Clone the Repository
 ```
-git clone https://github.com/yourusername/MountainCar-Q-Learning.git
-cd MountainCar-Q-Learning
+git clone https://github.com/Ajith-Kumar-Nelliparthi/MountainCarContinuous-v0.git
+cd MountainCarContinous-v0
 ```
 
 2️⃣ Create a Virtual Environment (Optional but recommended)
