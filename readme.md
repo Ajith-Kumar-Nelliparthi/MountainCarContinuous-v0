@@ -4,6 +4,9 @@
 
 This project implements Q-learning to train an agent to solve the MountainCar-v0 environment from OpenAI Gym. The agent learns to reach the flag by optimizing its movement using reinforcement learning techniques.
 
+![model](https://github.com/user-attachments/assets/e152d3c2-111b-4970-b9cb-fa73e93c39d2)
+
+
 ## 📌 Features
 
 1. Q-learning with a discretized state space
